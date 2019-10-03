@@ -2,7 +2,7 @@
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "git@github.com:sandy1397/monsters-rolodex.git",
+  "homepage": "https://sandy1397.github.io/monsters",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.8.6",
